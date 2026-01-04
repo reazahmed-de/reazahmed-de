@@ -28,10 +28,21 @@ Always curious. Always learning.
 ![Lovable](https://img.shields.io/badge/Lovable%20AI-%23FF69B4.svg?style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=zapier&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reazahmed-de&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=reazahmed-de&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reazahmed-de&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🗂️ Personal Projects:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=28
+    &duration=3000
+    &pause=800
+    &color=36BCF7
+    &multiline=false
+    &width=520
+    &height=60
+    &lines=WORKING+UNDER+PROCESS"
+  />
+</p>
+
 
 ### ✍️ Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20explore%20systems%20the%20way%20others%20explore%20cities%E2%80%94slowly%2C%20curiously%2C%20and%20on%20purpose.)
