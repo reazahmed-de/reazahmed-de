@@ -21,8 +21,10 @@ Always curious. Always learning.
 ![](https://nirzak-streak-stats.vercel.app/?user=reazahmed-de&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reazahmed-de&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Quote
+I explore systems the way others explore cities—slowly, curiously, and on purpose.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20explore%20systems%20the%20way%20others%20explore%20cities%E2%80%94slowly%2C%20curiously%2C%20and%20on%20purpose.)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reazahmed-de&icon=0&color=0)](https://visitcount.itsvg.in)
