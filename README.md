@@ -31,17 +31,18 @@ Always curious. Always learning.
 # 🗂️ Personal Projects:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=28
-    &duration=3000
-    &pause=800
-    &color=36BCF7
-    &multiline=false
-    &width=520
+    font=JetBrains+Mono
+    &size=26
+    &duration=2200
+    &pause=1000
+    &color=00FFAA
+    &width=600
     &height=60
-    &lines=WORKING+UNDER+PROCESS"
+    &gradient=true
+    &lines=//+WORKING+UNDER+PROCESS"
   />
 </p>
+
 
 
 ### ✍️ Quote
