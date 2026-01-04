@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm an international student in Germany, loves playing with tech tools and AI as a business student, I just map complex tech workflows for fun just to understand them. ;) currently testing out different ai tools to learn and grow in this ai market.
+Hey there 👋  
+I’m an international business student in Germany who enjoys “playing” with tech tools and AI.
+
+I map complex workflows for fun (yes, really 😉) just to understand how things work under the hood.  
+Right now, I’m testing different AI tools, learning fast, and exploring how this AI wave is shaping the future.
+
+Think of me as someone who loves connecting dots between business ideas and technical systems.
+
+Always curious. Always learning.
+
 
 
 ## 🌐 Socials:
