@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I, Me, & Myself:
 Hey there 👋  
 I’m an international business student in Germany who enjoys “playing” with tech tools and AI.
 
@@ -11,7 +11,7 @@ Always curious. Always learning.
 
 
 
-## 🌐 Socials:
+## 🌐 Say "Hello":
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reazahmed-de) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reazahmed.de@gmail.com) 
 
 # 💻 Tech Stack:
