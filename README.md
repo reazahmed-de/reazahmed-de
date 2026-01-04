@@ -35,7 +35,7 @@ Work in Progress!
 
 
 ### ✍️ Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20explore%20systems%20the%20way%20others%20explore%20cities%E2%80%94slowly%2C%20curiously%2C%20and%20on%20purpose.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&width=900&quote=I%20explore%20systems%20the%20way%20others%20explore%20cities%2C%20slowly%2C%20curiously%2C%20and%20on%20purpose.)
 
 
 ---
