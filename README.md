@@ -29,19 +29,8 @@ Always curious. Always learning.
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=zapier&logoColor=white)
 
 # 🗂️ Personal Projects:
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    &size=26
-    &duration=2200
-    &pause=1000
-    &color=00FFAA
-    &width=600
-    &height=60
-    &gradient=true
-    &lines=//+WORKING+UNDER+PROCESS"
-  />
-</p>
+
+Work in Progress! 
 
 
 
