@@ -1,38 +1,49 @@
-👋 Hi, I’m Reaz
+👋 **Hi, I’m Reaz**
 
-I’m a working-student-level marketer with a strong interest in how systems, tools, and structure make everyday work easier.
+I’m a **working-student-level marketer** with a strong interest in how **systems, tools, and structure** make everyday work easier.
 
 Most of my projects focus on things that often get ignored:
 
-• learning from campaigns instead of just reporting them
-• spotting where users get confused before they see value
-• staying organized, reliable, and easy to work with in real teams
+- learning from campaigns instead of just reporting them  
+- spotting where users get confused before they see value  
+- staying organized, reliable, and easy to work with in real teams  
 
-I like building simple frameworks and tools (mostly in Notion) that help people think more clearly, communicate better, and avoid repeating the same mistakes.
+I like building **simple frameworks and tools** (mostly in Notion) that help people think more clearly, communicate better, and avoid repeating the same mistakes.
 
-Right now, I’m studying in Germany and gradually moving deeper into product marketing, marketing operations, and customer experience — especially where marketing meets systems and processes.
+Right now, I’m studying in Germany and gradually moving deeper into  
+**product marketing, marketing operations, and customer experience** —  
+especially where marketing meets systems and processes.
 
-This GitHub is where I share:
+---
 
-• small practical projects
-• internal-style tools
-• experiments I actually use myself
+📦 **This GitHub is where I share:**
+
+- small, practical projects  
+- internal-style tools  
+- experiments I actually use myself  
 
 If something here looks useful or sparks a question, that’s already a win 🙂
 
-🧩 Current interests
-Product marketing • customer journeys • marketing operations • CRM & CX tools • clear documentation
+---
 
-📍 Based in
-Germany 🇩🇪
-(learning Deutsch step by step)
+🧩 **Current interests**
 
-🔗 Elsewhere
-Portfolio & case studies → (coming soon)
-LinkedIn → (updating soon)
+Product marketing • customer journeys • marketing operations •  
+CRM & CX tools • clear documentation
 
+---
 
+📍 **Based in**
 
+Germany 🇩🇪  
+*(learning Deutsch step by step)*
+
+---
+
+🔗 **Elsewhere**
+
+- **Portfolio & case studies** → *(coming soon)*  
+- **LinkedIn** → *(updating soon)*
 
 
 ## 🌐 Say "Hello":
@@ -70,7 +81,6 @@ LinkedIn → (updating soon)
 
 Most things here are intentionally simple.
 That’s not a limitation — it’s the point.
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reazahmed-de&icon=0&color=0)](https://visitcount.itsvg.in)
