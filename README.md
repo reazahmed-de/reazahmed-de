@@ -30,8 +30,17 @@ Always curious. Always learning.
 
 # 🗂️ Personal Projects:
 
-Work in Progress! 
+1. Campaign Learning System → View project
+A lightweight post-campaign review system designed to capture assumptions, outcomes, missed signals, and clear lessons for future campaigns.
+Built to support structured learning and reduce repeated execution mistakes without heavy documentation.
 
+2. First-Time User Journey Map → View project
+A focused journey map that tracks a first-time user from website visit to first value.
+Designed to highlight confusion points, friction, and gaps in guidance that affect early activation.
+
+3. Working Student Execution Framework → View project
+A lightweight personal framework to manage tasks, questions, feedback, and learning as a working student.
+Designed to support clear communication, accountability, and continuous improvement in team settings.
 
 
 ### ✍️ Quote
