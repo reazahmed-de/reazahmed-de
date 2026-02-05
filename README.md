@@ -79,8 +79,8 @@ Germany 🇩🇪
 
 ### ✍️ Small note
 
-Most things here are intentionally simple.
-That’s not a limitation — it’s the point.
+These projects are kept **simple on purpose**.  
+They reflect how I like to learn, work, and improve over time.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reazahmed-de&icon=0&color=0)](https://visitcount.itsvg.in)
