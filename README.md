@@ -1,13 +1,37 @@
-# 💫 I, Me, & Myself:
-Hey there 👋  
-I’m an international business student in Germany who enjoys “playing” with tech tools and AI.
+👋 Hi, I’m Reaz
 
-I map complex workflows for fun (yes, really 😉) just to understand how things work under the hood.  
-Right now, I’m testing different AI tools, learning fast, and exploring how this AI wave is shaping the future.
+I’m a working-student-level marketer with a strong interest in how systems, tools, and structure make everyday work easier.
 
-Think of me as someone who loves connecting dots between business ideas and technical systems.
+Most of my projects focus on things that often get ignored:
 
-Always curious. Always learning.
+• learning from campaigns instead of just reporting them
+• spotting where users get confused before they see value
+• staying organized, reliable, and easy to work with in real teams
+
+I like building simple frameworks and tools (mostly in Notion) that help people think more clearly, communicate better, and avoid repeating the same mistakes.
+
+Right now, I’m studying in Germany and gradually moving deeper into product marketing, marketing operations, and customer experience — especially where marketing meets systems and processes.
+
+This GitHub is where I share:
+
+• small practical projects
+• internal-style tools
+• experiments I actually use myself
+
+If something here looks useful or sparks a question, that’s already a win 🙂
+
+🧩 Current interests
+Product marketing • customer journeys • marketing operations • CRM & CX tools • clear documentation
+
+📍 Based in
+Germany 🇩🇪
+(learning Deutsch step by step)
+
+🔗 Elsewhere
+Portfolio & case studies → (coming soon)
+LinkedIn → (updating soon)
+
+
 
 
 
@@ -42,9 +66,10 @@ Always curious. Always learning.
 
    A lightweight personal framework to manage tasks, questions, feedback, and learning as a working student in team environments.
 
+### ✍️ Small note
 
-### ✍️ Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&width=900&quote=I%20explore%20systems%20the%20way%20others%20explore%20cities%2C%20slowly%2C%20curiously%2C%20and%20on%20purpose.)
+Most things here are intentionally simple.
+That’s not a limitation — it’s the point.
 
 
 ---
