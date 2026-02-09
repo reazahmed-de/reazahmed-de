@@ -65,15 +65,15 @@ Germany 🇩🇪
 
 # 🗂️ Personal Projects:
 
-1. **Campaign Learning System** → [View project](LINK)
+1. **Campaign Learning System** → [View project](https://www.notion.so/Campaign-Post-Mortem-Template-2fa062ec5f2d80498506d9ffc7de6224?source=copy_link)
 
    A lightweight post-campaign review system designed to capture assumptions, outcomes, missed signals, and clear lessons for future campaigns.
 
-2. **First-Time User Journey Map** → [View project](LINK)
+2. **First-Time User Journey Map** → [View project](https://www.notion.so/From-Website-to-First-Value-2fa062ec5f2d8068b463f917edf1b96c?source=copy_link)
 
    A focused journey map that tracks a first-time user from website visit to first value, highlighting confusion points, friction, and guidance gaps.
 
-3. **Working Student Execution Framework** → [View project](https://www.notion.so/Working-Student-Survival-OS-2fa062ec5f2d808f9914f5b74eec629a?source=copy_link)
+3. **Working Student Execution Framework** → [View project](https://www.notion.so/Working-Student-Survival-OS-2fa062ec5f2d808f9914f5b74eec629a)
 
    A lightweight personal framework to manage tasks, questions, feedback, and learning as a working student in team environments.
 
