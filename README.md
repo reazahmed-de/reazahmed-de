@@ -73,7 +73,7 @@ Germany 🇩🇪
 
    A focused journey map that tracks a first-time user from website visit to first value, highlighting confusion points, friction, and guidance gaps.
 
-3. **Working Student Execution Framework** → [View project](LINK)
+3. **Working Student Execution Framework** → [View project](https://www.notion.so/Working-Student-Survival-OS-2fa062ec5f2d808f9914f5b74eec629a?source=copy_link)
 
    A lightweight personal framework to manage tasks, questions, feedback, and learning as a working student in team environments.
 
